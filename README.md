@@ -1,6 +1,6 @@
 # cb_paperword
 
-A new Flutter project.
+A third attempt to simplify paperwork at City Brew Coffee. This time, I will use the flutter framework to make both Android and iOS versions avalible.
 
 ## Getting Started
 
