@@ -34,7 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar:  AppBar(
         title:  Text(widget.title),
       ),
-      body:  TillEditor(),
+      body:  MoneyGroupEditor(),
       floatingActionButton:  FloatingActionButton(
         onPressed: null,
         tooltip: 'Increment',
